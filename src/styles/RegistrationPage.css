@@ -1,0 +1,21 @@
+.register-title {
+  text-align: center;
+  font-family: "Roboto";
+  color: rgb(52, 139, 221);
+}
+
+.register-btn {
+  text-align: center !important;
+}
+
+.register-form {
+  margin: 2% auto;
+  background-color: #b9cdf7d3;
+  width: 30%;
+  border-radius: 25px;
+  padding: 50px 0;
+}
+
+.register-input {
+  width: 75%;
+}

@@ -1,0 +1,17 @@
+.login-title {
+  color: #667b68;
+  text-align: center;
+  font-family: "Roboto";
+}
+
+.login-form {
+  background-color: #c8fcea;
+  border-radius: 25px;
+  width: 30%;
+  padding: 50px 0;
+  margin: 2% auto !important;
+}
+
+.login-input {
+  width: 75%;
+}
